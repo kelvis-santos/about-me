@@ -1,0 +1,17 @@
+Palete
+
+    Black
+        #082032
+        rgb(8, 32, 50)
+
+    Navy
+        #2C394B
+        rgb(44, 57, 75)
+
+    Orange        
+        #FF4C29
+        rgb(255, 76, 41)
+
+    Space
+        #334756
+        rgb(51, 71, 86)
